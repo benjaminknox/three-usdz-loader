@@ -1,6 +1,6 @@
 {
-  "name": "three-usdz-loader",
-  "version": "1.0.7",
+  "name": "three-usdz-loader-esm",
+  "version": "1.0.8-esm",
   "description": "A basic USDZ file (Pixar Universal Scene Description) loader for ThreeJS",
   "main": "lib/USDZLoader.js",
   "types": "lib/USDZLoader.d.ts",
@@ -24,7 +24,7 @@
     "3d",
     "viewer"
   ],
-  "author": "Pierre-Olivier",
+  "author": "Benjamin P. Knox (original: Pierre-Olivier)",
   "license": "Modified Apache 2.0",
   "devDependencies": {
     "@types/node": "^17.0.42",
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ponahoum/three-usdz-loader.git"
+    "url": "https://github.com/benjaminknox/three-usdz-loader.git"
   }
 }
